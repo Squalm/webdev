@@ -23,9 +23,9 @@ and design.
 [![](/assets/images/states.png)](https://states.xhirp.com)
 {: .wide-image-block }
 
-opinionated about  
-how the web should work and  
-how the web should look.
+**opinionated** about  
+how the web should **work** and  
+how the web should **look**.
 {: .middle-block .center-if-small }
 
 ---
