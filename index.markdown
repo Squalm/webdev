@@ -23,11 +23,6 @@ and design.
 [![](/assets/images/states.png)](https://states.xhirp.com)
 {: .wide-image-block }
 
-**opinionated** about  
-how the web should **work** and  
-how the web should **look**.
-{: .middle-block .center-if-small }
-
 ---
 
 Say goodbye to one million spans and meaningless divs. Say hello to HTML that *means something*.
