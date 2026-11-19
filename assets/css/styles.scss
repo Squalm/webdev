@@ -1,0 +1,183 @@
+---
+---
+
+$text_stack: helvetica, -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; 
+
+$orange: #FE7F2D;
+$background: #FFF;
+$text: #000;
+
+$fill-padding: 0.3em;
+$canon-size: max(28px, 5ch);
+
+body {
+    font-family: $text_stack;
+    background-color: $background;
+    color: $text;
+    
+    margin: 0;
+    overflow-x: hidden;
+    line-height: 1.2;
+    
+    font-size: $canon-size;
+    font-weight: lighter;
+    // Smaller fonts on mobile
+    @media (max-width: 932px) {
+        font-size: 24px;
+    }
+
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: lighter;
+}
+
+strong {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: $orange;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+// Styling for use in markdown
+
+.ginormous {
+    font-size: 4em;
+    @media (max-width: 932px) {
+        font-size: 2em;
+    }
+}
+.huge {
+    font-size: 2em;
+}
+.small {
+    font-size: max(14px, 0.6em);
+}
+.tiny {
+    font-size: max(14px, 0.3em);
+}
+
+.bold {
+    font-weight: bold;
+}
+.regular {
+    font-weight: normal;
+}
+.light {
+    font-weight: lighter;
+}
+
+.orange {
+    color: $orange;
+}
+.white {
+    color: $background;
+}
+.black {
+    color: $text;
+}
+
+.fill-orange {
+    background-color: $orange;
+    padding-top: $fill-padding;
+    padding-bottom: $fill-padding;
+
+    a {
+        color: inherit;
+        text-decoration: underline;
+    }
+}
+.fill-black {
+    background-color: $text;
+    padding-top: $fill-padding;
+    padding-bottom: $fill-padding;
+
+    a {
+        color: inherit;
+    }
+}
+
+.middle-block {
+    // Here to make it clear!
+    display: block;
+
+    padding-left: 1%;
+    padding-right: 1%;
+
+    @media (min-width: 1200px) {
+        padding-left: calc(50vw - 400px);
+        padding-right: calc(50vw - 400px);
+    }
+}
+.left-block {
+    display: block;
+
+    padding-left: 1%;
+    padding-right: 1%;
+
+    @media (min-width: 1200px) {
+        padding-left: max(100px, calc(50vw - 600px));
+        // pad so that width to 1000px
+        padding-right: calc(100% - (max(100px, calc(50vw - 600px)) + 800px));
+    }
+}
+.right-block {
+    display: block;
+
+    padding-left: 1%;
+    padding-right: 1%;
+
+    text-align: right;
+    
+    @media (min-width: 1200px) {
+        padding-right: max(100px, calc(50vw - 600px));
+        // pad so that width is 1000px
+        padding-left: calc(100% - (max(100px, calc(50vw - 600px)) + 800px));
+    }
+}
+.wide-block {
+    // Here to make it clear!
+    display: block;
+
+    padding-left: 1%;
+    padding-right: 1%;
+
+    @media (min-width: 1200px) {
+        padding-left: max(100px, calc(50vw - 600px));
+        padding-right: max(100px, calc(50vw - 600px));
+    }
+}
+.left {
+    text-align: left;
+}
+.right {
+    text-align: right;
+    
+    // move to the left on smol screens
+    // @media (max-width: 1200px) {
+    //     text-align: left;
+    // }
+}
+.center {
+    text-align: center;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+// For removing the gap between two elements
+// mark them both with these.
+.connect-below {
+    margin-bottom: 0;
+}
+.connect-above {
+    margin-top: 0;
+}
+
