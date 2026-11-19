@@ -17,8 +17,8 @@ and design.
 [![](/assets/images/rubymitcham.png)](https://rubymitcham.com)
 {: .wide-image-block }
 
-[![](/assets/images/art.png)](https://art.xhirp.com)
-{: .wide-image-block }
+<!-- [![](/assets/images/art.png)](https://art.xhirp.com)
+{: .wide-image-block } -->
 
 [![](/assets/images/states.png)](https://states.xhirp.com)
 {: .wide-image-block }
