@@ -9,7 +9,10 @@ layout: home
 
 freelance web development  
 and design.
-{: .wide-block .huge .center-if-small }
+{: .wide-block .huge .center-if-small .connect-below }
+
+[get in touch](/contact){: }.
+{: .left-block .center-if-small}
 
 TKTK some pictures...
 
@@ -24,6 +27,3 @@ TKTK some more copy...
 {: .wide-block .white .fill-black }
 
 TKTK some more copy, slide decks etc.
-
-[Contact me](/contact)
-{: .center .wide-block }
