@@ -14,13 +14,13 @@ and design.
 [get in touch](/contact).
 {: .left-block .center-if-small}
 
-![](/assets/images/rubymitcham.png)
+[![](/assets/images/rubymitcham.png)](https://rubymitcham.com)
 {: .wide-image-block }
 
-![](/assets/images/art.png)
+[![](/assets/images/art.png)](https://art.xhirp.com)
 {: .wide-image-block }
 
-![](/assets/images/states.png)
+[![](/assets/images/states.png)](https://states.xhirp.com)
 {: .wide-image-block }
 
 opinionated about  
@@ -41,7 +41,7 @@ Say goodbye to one million spans and meaningless divs. Say hello to HTML that *m
 Put information where people want it. Sensible layouts with no bloat.
 {: .wide-block }
 
-![](/assets/images/cubeCUBE.png)
+[![](/assets/images/cubeCUBE.png)](https://cubecube.xhirp.com)
 {: .wide-image-block }
 
 ---
