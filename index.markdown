@@ -17,16 +17,16 @@ and design.
 ![](/assets/images/rubymitcham.png)
 {: .wide-image-block }
 
-opinionated about  
-how the web should work and  
-how the web should look.
-{: .middle-block .center-if-small }
-
 ![](/assets/images/art.png)
 {: .wide-image-block }
 
 ![](/assets/images/states.png)
 {: .wide-image-block }
+
+opinionated about  
+how the web should work and  
+how the web should look.
+{: .middle-block .center-if-small }
 
 ---
 
