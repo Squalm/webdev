@@ -16,5 +16,6 @@ Commission fees are usually in the range £200 - £2000 depending on the site's 
 All commissions come with one year of free support for all reasonable queries and an explanation of how your site works and how to maintain it yourself.
 {: .left-block } 
 
-Thanks! Oscar
+Thanks!  
+Oscar
 {: .right-block }

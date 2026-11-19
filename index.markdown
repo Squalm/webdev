@@ -5,13 +5,18 @@
 layout: home
 ---
 # [**x**{: .orange }hirp.com](/){: .black }
-{: .ginormous .wide-block .connect-below }
+{: .ginormous .wide-block .connect-below .center-if-small }
 
 freelance web development  
-and design
-{: .wide-block .huge }
+and design.
+{: .wide-block .huge .center-if-small }
 
 TKTK some pictures...
+
+opinionated about  
+how the web should work and  
+how the web should look.
+{: .middle-block .center-if-small }
 
 TKTK some more copy...
 

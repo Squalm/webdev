@@ -50,7 +50,7 @@ a {
 .ginormous {
     font-size: 4em;
     @media (max-width: 932px) {
-        font-size: 2em;
+        font-size: 3em;
     }
 }
 .huge {
@@ -166,6 +166,11 @@ a {
 }
 .center {
     text-align: center;
+}
+.center-if-small {
+    @media (max-width: 1200px) {
+        text-align: center;
+    }
 }
 
 .underline {
