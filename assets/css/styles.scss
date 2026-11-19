@@ -44,6 +44,11 @@ a {
         text-decoration: underline;
     }
 }
+img {
+    max-width: 100%;
+    filter: drop-shadow(8px 8px 10px #555);
+    border-radius: 5px;
+}
 
 // Styling for use in markdown
 
@@ -153,6 +158,24 @@ a {
         padding-right: max(100px, calc(50vw - 600px));
     }
 }
+.wide-image-block {
+    // Here to make it clear!
+    display: block;
+    text-align: center;
+
+    padding-left: 5%;
+    padding-right: 5%;
+
+    @media (min-width: 1200px) {
+        padding-left: max(100px, calc(50vw - 800px));
+        padding-right: max(100px, calc(50vw - 800px));
+    }
+
+    img {
+        max-height: 60vh;
+    }
+}
+
 .left {
     text-align: left;
 }
