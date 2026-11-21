@@ -45,7 +45,6 @@ a {
     }
 }
 img {
-    max-width: 100%;
     filter: drop-shadow(8px 8px 10px #555);
     border-radius: 5px;
 }
@@ -173,6 +172,7 @@ img {
 
     img {
         max-height: 60vh;
+        max-width: 100%;
     }
 }
 
@@ -209,3 +209,19 @@ img {
     margin-top: 0;
 }
 
+// Image gallery
+.gallery {
+    width: 100%;
+    overflow: hidden;
+    padding: 10px 0 10px 0;
+    display: flex;
+    flex-direction: row;
+
+    img {
+        margin: 20px;
+        max-height: 60vh;
+        max-width: 90vw;
+        flex-grow: 0;
+        pointer-events: none;
+    }
+}

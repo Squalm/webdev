@@ -7,58 +7,45 @@ layout: home
 # [**x**{: .orange }hirp.com](/){: .black }
 {: .ginormous .wide-block .connect-below .center-if-small }
 
-freelance web development  
-and design.
+experienced campaigner.
 {: .wide-block .huge .center-if-small .connect-below }
 
 [get in touch](/contact).
-{: .left-block .center-if-small}
+{: .left-block .center-if-small }
 
-[![](/assets/images/rubymitcham.png)](https://rubymitcham.com)
-{: .wide-image-block }
+![](/assets/images/cubeCUBEpeople.jpeg)
+![](/assets/images/PBU-site.png)
+![](/assets/images/busCampaign.png)
+{: .gallery .connect-below }
 
-<!-- [![](/assets/images/art.png)](https://art.xhirp.com)
-{: .wide-image-block } -->
+**writing** & **organising** & **events** & **comms** & **web**
+{: .wide-block .center }
 
-[![](/assets/images/states.png)](https://states.xhirp.com)
-{: .wide-image-block }
+For the last four years, I've been immersed in a world of campaigning and activism: I've done research and written web copy; I've coordinated volunteers throughout campaigns and for events; I've created and edited video and text social media posts; and I've built websites for campaigns.
+{: .left-block .small }
 
----
+## research & writing
+{: .middle-block .center-if-small }
 
-Say goodbye to one million spans and meaningless divs. Say hello to HTML that *means something*.
-{: .wide-block }
+## organising
+{: .middle-block .center-if-small }
 
-![HTML code looking nice and pretty](/assets/images/clean-html.png)
-{: .wide-image-block }
+## events
+{: .middle-block .center-if-small }
 
----
+## social media
+{: .middle-block .center-if-small }
 
-Put information where people want it. Sensible layouts with no bloat.
-{: .wide-block }
+## web design
+{: .middle-block .center-if-small }
 
-[![](/assets/images/cubeCUBE.png)](https://cubecube.xhirp.com)
-{: .wide-image-block }
-
----
-
-No secret knowledge or technology. Change anything on your website because it's all just *there*.
-{: .wide-block }
-
-![](/assets/images/side-by-side.png)
-{: .wide-image-block }
+## merchandise
+{: .middle-block .center-if-small }
 
 ---
-
-Free support for you and your business. I'm not going to keep charging you for maintenance and bug fixes.
-{: .wide-block }
-
-![](/assets/images/slide-deck.png)
-{: .wide-image-block }
-
----
-
-**“**Oscar designed and set up a beautiful website for our Fine Art business. The process was fast, efficient, reasonably priced, and didn’t require any previous knowledge on our part. We took advantage of their technical expertise. All alterations were done quickly and we are now able to update content ourselves. As a small business, we’ve found it invaluable to have a credible, clear and cohesive source of reference for new and existing customers.**”**
-{: .wide-block .white .fill-black }
 
 [get in touch](/contact).
 {: .left-block .center-if-small}
+
+this is my campaigns portfolio. see also my [art]() and [web design](/design) portfolios.
+{: .left-block .small }
