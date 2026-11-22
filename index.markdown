@@ -16,15 +16,15 @@ what are you looking for?
 {: .left-block }
 
 ![](/assets/images/cubeCUBEpeople.jpeg)
+![](/assets/images/PBU-site.png){: .size-setter }
 ![](/assets/images/busCampaign.png)
-![](/assets/images/PBU-site.png)
 {: .gallery }
 
 ## [Web development](/d)
 {: .left-block }
 
 ![](/assets/images/art.png)
-![](/assets/images/rubymitcham.png)
+![](/assets/images/rubymitcham.png){: .size-setter }
 ![](/assets/images/states.png)
 {: .gallery }
 
@@ -33,7 +33,7 @@ what are you looking for?
 
 ![](https://art.xhirp.com/assets/images/IMG_7265.jpeg)
 ![](https://art.xhirp.com/assets/images/IMG_6252.jpeg)
-![](https://art.xhirp.com/assets/images/IMG_7771.png)
+![](https://art.xhirp.com/assets/images/IMG_7771.png){: .size-setter }
 ![](https://art.xhirp.com/assets/images/IMG_6323.jpeg)
 ![](https://art.xhirp.com/assets/images/IMG_7593.jpeg)
 ![](https://art.xhirp.com/assets/images/IMG_7073.jpeg)

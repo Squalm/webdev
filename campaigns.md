@@ -62,7 +62,7 @@ Planning, organising, and running [cubeCUBE](https://cubecube.xhirp.com), a char
 {: .middle-block .small }
 
 **Core Member, Plant-Based Universities Imperial**  
-Planning an open forum on our motion about plant-based catering. Structuring the workshop in the style of a citizens assembly, coordinating sections from other volunteers, and meeting with stakeholders in advance to discuss possible concerns.  
+Planning an open forum on our motion about plant-based catering. Structuring the [workshop](https://pbu-imperial.org/assets/pdfs/PBU%20Sust%20forum%20Jan25.pdf) in the style of a citizens assembly, coordinating sections from other volunteers, and meeting with stakeholders in advance to discuss possible concerns.  
 *Our motion passed with a supermajority*{: .orange }
 {: .middle-block .small }
 
@@ -91,6 +91,8 @@ Web development and design for various personal projects and freelance. Building
 {: .middle-block .small }
 
 **Core Member, Plant-Based Universities Imperial**  
+Building the website for [Plant-Based Universities Imperial](https://pbu-imperial.org) and teaching other members how to use and edit the site. Also, building the website for Imperial Climate Action.  
+*Non-technical activists can make changes*{: .orange }
 {: .middle-block .small }
 
 ## merchandise
@@ -107,7 +109,7 @@ Organising production of playmats and pins for [cubeCUBE](https://cubecube.xhirp
 
 <br />
 
-[get in touch](/contact).
+I have a broad set of skills! [get in touch](/contact).
 {: .left-block .center-if-small}
 
 This is my campaigns portfolio. See also my [art](https://art.xhirp.com) and [web design](/d) portfolios.

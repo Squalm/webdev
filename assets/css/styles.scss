@@ -241,3 +241,11 @@ img {
 .orange-hover:hover {
     background-color: rgba($orange, 0.5);
 }
+
+// form
+textarea, input, button {
+    width: 100%;
+    font-size: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+}
