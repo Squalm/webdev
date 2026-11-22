@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Design
-permalink: /design
+permalink: /d
 ---
 # [**x**{: .orange }hirp.com](/){: .black }
 {: .ginormous .wide-block .connect-below .center-if-small }
