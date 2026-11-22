@@ -2,19 +2,19 @@ window.onload = (e) => {
     // Credit: https://stackoverflow.com/questions/28576636/mouse-click-and-drag-instead-of-horizontal-scroll-bar-to-view-full-content-of-c
     let mouseDown = false;
     let startX, scrollLeft;
-    const slider = document.querySelector('.gallery');
+    const sliders = document.querySelectorAll('.gallery');
 
-    const startDragging = (e) => {
+    const startDragging = (e, slider) => {
         mouseDown = true;
         startX = e.pageX - slider.offsetLeft;
         scrollLeft = slider.scrollLeft;
     }
 
-    const stopDragging = (e) => {
+    const stopDragging = (e, slider) => {
         mouseDown = false;
     }
 
-    const move = (e) => {
+    const move = (e, slider) => {
         e.preventDefault();
         if(!mouseDown) { return; }
         const x = e.pageX - slider.offsetLeft;
@@ -23,14 +23,15 @@ window.onload = (e) => {
     }
 
     // Add the event listeners
-    slider.addEventListener('mousemove', move, false);
-    slider.addEventListener('mousedown', startDragging, false);
-    slider.addEventListener('mouseup', stopDragging, false);
-    slider.addEventListener('mouseleave', stopDragging, false);
+    for (const slider of sliders) {
+        slider.addEventListener('mousemove', event => move(event, slider));
+        slider.addEventListener('mousedown', event => startDragging(event, slider));
+        slider.addEventListener('mouseup', event => stopDragging(event, slider));
+        slider.addEventListener('mouseleave', event => stopDragging(event, slider));
 
-    // Some maths to start the gallery already scrolled
-    let scrollWidth = slider.scrollWidth;
-    let scrollAmount = (scrollWidth - window.innerWidth) / 2;
-    
-    slider.scroll(scrollAmount, 0);
+        // Some maths to start the gallery already scrolled
+        let scrollWidth = slider.scrollWidth;
+        let scrollAmount = (scrollWidth - window.innerWidth) / 2;
+        slider.scroll(scrollAmount, 0);
+    }
 }
