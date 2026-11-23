@@ -45,7 +45,7 @@ a {
     }
 }
 img {
-    filter: drop-shadow(8px 8px 10px #555);
+    filter: drop-shadow(0.1em 0.1em 0.2em #555);
     border-radius: 5px;
 }
 
@@ -220,7 +220,7 @@ img {
     flex-direction: row;
 
     img {
-        margin: 20px;
+        margin: 0.4em;
         max-height: 60vh;
         max-width: 85vw;
         object-fit: contain;
