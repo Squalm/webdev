@@ -45,6 +45,13 @@ Planning an open forum on our motion about plant-based catering. Structuring the
 *Our motion passed with a supermajority*{: .orange }
 {: .middle-block .small }
 
+![](/assets/images/PBU-survey-posters.jpg)
+![](/assets/images/miracle-poster.jpg){: .size-setter }
+![](/assets/images/FFCs-investigation-treemap.png)
+![](/assets/images/cubecube-poster.jpg)
+![](/assets/images/diet-flyer-updated.jpg)
+{: .gallery }
+
 ## web & social media
 {: .middle-block .center-if-small .orange-hover }
 
@@ -67,6 +74,11 @@ Publicity for [cubeCUBE](https://cubecube.xhirp.com), a charity event. Poster an
 Social media campaign for [Winchester Green Week 2024](https://www.instagram.com/winchestergreenweek/), including text and video posts leading up to and during the event building excitement and announcing specific upcoming events.  
 *Better informing the community about events*{: .orange }
 {: .middle-block .small }
+
+![](/assets/images/CSF-article.jpeg)
+![](/assets/images/PBU-imperial.jpeg){: .size-setter }
+![](/assets/images/FFCs-investigation.png)
+{: .gallery}
 
 ## research & writing
 {: .middle-block .center-if-small .orange-hover }
