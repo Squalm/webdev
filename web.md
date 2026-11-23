@@ -14,7 +14,7 @@ and design.
 {: .left-block .center-if-small}
 
 ![](/assets/images/art.png)
-![](/assets/images/rubymitcham.png)
+![](/assets/images/rubymitcham.png){: .size-setter }
 ![](/assets/images/states.png)
 {: .gallery }
 

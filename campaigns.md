@@ -12,7 +12,7 @@ experienced campaigner.
 {: .left-block .center-if-small }
 
 ![](/assets/images/cubeCUBEpeople.jpeg)
-![](/assets/images/PBU-site.png)
+![](/assets/images/PBU-site.png){: .size-setter }
 ![](/assets/images/busCampaign.png)
 {: .gallery .connect-below }
 
