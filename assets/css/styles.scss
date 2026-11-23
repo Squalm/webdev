@@ -212,12 +212,12 @@ img {
 // Image gallery
 .gallery {
     width: 100%;
-    justify-content: center;
-    overflow: hidden;
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
     padding: 10px 0 10px 0;
     display: flex;
     flex-direction: row;
-    align-items: center;
 
     img {
         margin: 20px;
@@ -227,7 +227,16 @@ img {
         flex: 0 0 auto;
         pointer-events: none;
     }
+
+    // Hide scrollbars
+    -ms-overflow-style: none;  // Edge
+    scrollbar-width: none;  // Firefox
 }
+/* Chorme, Safari etc. */
+.gallery::-webkit-scrollbar {
+    display: none;
+}
+
 .mtg-cards {
     img {
         border-radius: 20px;
